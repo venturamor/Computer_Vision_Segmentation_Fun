@@ -22,6 +22,7 @@ Segmentation of Images and Video.
   - my own video
   - combining them to fun result: [video](final-vid_music.mp4) or on [YouTube](https://youtu.be/hHQfKbC5s8I)
 
+![](0250.jpg)
 
 detailed report - [report](ee046746_hw3.pdf)
 
